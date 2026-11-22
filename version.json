@@ -1,0 +1,33 @@
+{
+  "version": "1.2.0",
+  "publie": "2026-11-22",
+  "lien": "https://github.com/johnnycola/menu-bouffe/releases/latest/download/Menu-Bouffe-mac.zip",
+  "page": "https://github.com/johnnycola/menu-bouffe/releases/latest",
+  "notes": "Base de 5 881 recettes, mises à jour automatiques",
+  "index": {
+    "3fpj.json.gz": {
+      "fichier": "index/3fpj.json.gz",
+      "date": "2026-11-22",
+      "recettes": 487,
+      "sha256": "f1ad28e508dd891e9d509b61b6f0e6f5b78d5c5a1acd0343609919b60c9376a5"
+    },
+    "5-15.json.gz": {
+      "fichier": "index/5-15.json.gz",
+      "date": "2026-11-22",
+      "recettes": 1562,
+      "sha256": "2db4788e7e9c76b1d54f7edba08da8870f6472dbb13bb75f59c9791f3321b738"
+    },
+    "metro.json.gz": {
+      "fichier": "index/metro.json.gz",
+      "date": "2026-11-22",
+      "recettes": 3645,
+      "sha256": "cb0b927cf0502e4c21d7e3b7c40f195c35694db9770a84f3040d0924fab3d5c2"
+    },
+    "ricardo.json.gz": {
+      "fichier": "index/ricardo.json.gz",
+      "date": "2026-11-22",
+      "recettes": 187,
+      "sha256": "3295fc9947ebddcc5e693af8e5f76d88b51fcee900dd13ed77123ab77371dc79"
+    }
+  }
+}
